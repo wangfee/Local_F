@@ -1,4 +1,8 @@
 add 123456
 
+<<<<<<< HEAD
 
 master version.
+=======
+this is dev version.
+>>>>>>> dev
